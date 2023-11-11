@@ -54,7 +54,18 @@
     <div class="flexwrap1">
       <div id="Project" class="tabcontent">
         <h1>Positive Affirmation Generator</h1>
-        <p id="affirmation">Click the button to generate a positive affirmation.</p>
+        <p>
+          Choose your emotion and click the button to generate a positive affirmation.
+        </p>
+        <div class="container">
+          <label for="emotionSelect">Select Emotion:</label>
+          <select id="emotionSelect">
+            <option value="happy">Happy</option>
+            <option value="calm">Calm</option>
+            <option value="motivated">Motivated</option>
+          </select>
+
+        <p id="affirmation">Posotive Affirmation.</p>
         <button id="generateButton" onclick="generateAffirmation()">Generate Affirmation</button>
       </div>
       <script src="affirmation_section.js"></script>
