@@ -4,10 +4,10 @@
     <meta charset="utf-8" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
+    <!-- <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-    />
+    /> -->
 
     <title>Example title</title>
     <link rel="stylesheet" href="styles.css">
@@ -19,7 +19,7 @@
    
     <style>
       .text-size {
-        font-size: 16px; /* Adjust the font size as desired */
+        font-size: 16px; 
       }
     </style>
     <h1 class="head1">Hackathon Project</h1>
@@ -32,8 +32,8 @@
         About
       </button>
 
-      <button class="tablinks" onclick="openTab(event, 'Instructions')">
-        Instructions
+      <button class="tablinks" onclick="openTab(event, 'Main Project')">
+        Project
       </button>
 
       <button class="tablinks" onclick="openTab(event, 'Acknowledgements')">
@@ -52,22 +52,35 @@
     </div>
 
     <div class="flexwrap1">
-      <div id="Instructions" class="tabcontent">
+      <div id="Project" class="tabcontent">
         <h3>Developers</h3>
         <p>
-          Make sure the user knows how to use the module!
+          Make sure the user knows how to use the project!
+           
         </p>
       </div>
     </div>
 
     <div class="flexwrap1">
       <div id="Acknowledgements" class="tabcontent">
-        <h3>Supplemental Questions</h3>
+        <h3>Developers</h3>
         <p>
-          Provide some questions for the user to answer here!
+          <br /><br /><br /><br /><br /><br />
+          <img
+            src="{{url_for('static', filename='name.jpg')}}"
+            alt="Name"
+            class="footerpic"
+          />
+          <strong>Name</strong> - Class of 2026 <br />
+          Developer <br />
+          <a
+            href="LinkedIn Link"
+            class="fa fa-linkedin"
+          ></a>
         </p>
       </div>
     </div>
+    
 
 
     <script>
@@ -84,9 +97,7 @@
         document.getElementById(tabName).style.display = "block";
         evt.currentTarget.className += " active";
       }
-      // Get the element with id="defaultOpen" and click on it
       document.getElementById("defaultOpen").click();
-      // Keyboard navigation
       document.addEventListener("keydown", (event) => {
         const tablinks = document.querySelectorAll(".tablinks");
         let currentTab = Array.from(tablinks).findIndex((tab) =>
@@ -109,7 +120,7 @@
   </body>
   <div class="footer1">
     <div class="flexcol5">
-      />
+      
     </div>
     <div class="flexcol6">
       <h2
@@ -136,26 +147,8 @@
           color: #fff;
         "
       >
-   Developers:</pre
-      >
-      <
-          <br /><br /><br /><br /><br /><br />
-          <img
-            src="{{url_for('static', filename='Tyreese_Davidson.jpg')}}"
-            alt="Tyreese"
-            class="footerpic"
-          />
-            <strong>Tyreese Davidson</strong> - Class of 2026 <br />
-            Core Developer <br />
-            <a
-              href="https://www.linkedin.com/in/tyreese-davidson/"
-              class="fa fa-linkedin"
-            ></a>
-          </p>
-          <br /><br /><br /><br /><br /><br />
+  
         </div>
-      </div>
-    </div>
-  </div>
+      
   
 </html>
