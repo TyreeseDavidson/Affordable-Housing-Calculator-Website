@@ -275,6 +275,325 @@ const emotions = {
             ]
           
           },
+          Resilient: {
+            affirmations: [
+              "I am resilient, and I can overcome any obstacle in my path.",
+              "I embrace challenges as opportunities for growth and learning.",
+              "I trust in my ability to adapt and find solutions in difficult situations.",
+              "I am like a sturdy tree, standing tall in the face of life's storms.",
+              "I bounce back from setbacks stronger and wiser than before.",
+              "I am resilient, and my spirit is unbreakable.",
+              "I draw strength from adversity and turn challenges into triumphs.",
+              "I face uncertainty with courage and resilience.",
+              "I am resilient, and I rise above difficulties with grace and strength.",
+              "My resilience is a testament to my inner power and determination.",
+              "I trust that I can handle whatever comes my way.",
+              "I see setbacks as stepping stones to success; they do not define me.",
+              "I am resilient, and I have the courage to stand firm in the face of adversity.",
+              "I find inspiration and motivation in the face of challenges.",
+              "I am a survivor, and my resilience is a source of pride.",
+              "I bounce back from difficulties with resilience and a positive mindset.",
+              "I embrace change with flexibility and resilience.",
+              "I am resilient, and I turn challenges into opportunities for growth.",
+              "I trust the process of life and my ability to navigate it with resilience.",
+              "I am resilient, and I thrive in the face of life's uncertainties."
+            ],
+            activties: [
+              "Take a walk at Delaware & Lehigh National Heritage Corridor",
+              "Visit Horses Unplugged LLC",
+              "Join the Lehigh Valley Mall Social Walk",
+              "Disconnect from technology",
+              "Go climbing at North Summit Climbing Gym",
+              "Go to Nurture Nature Center in Easton",
+              "Try Mindfulness Meditation Group at the Reiki School + Clinic",
+              "Meditate at High Vibration Wellness in Allentown",
+              "Take a break and get a sweet treat at The Cup",
+              "Take advantage of Live Music Sundays! Hosted by Folino Estate"
+            
+            ]
+          },
+          
+          Optimistic: {
+            affirmations: [
+              "I approach each day with a hopeful and positive mindset.",
+              "My optimism is a powerful force that shapes my reality.",
+              "I see opportunities in every challenge, and I embrace them eagerly.",
+              "I choose to focus on the bright side of life, finding joy in every moment.",
+              "I am a magnet for positive energy, attracting good things into my life.",
+              "I trust in the goodness of the universe and believe in positive outcomes.",
+              "I radiate optimism, and others are inspired by my positive energy.",
+              "I am surrounded by opportunities, and I am ready to seize them.",
+              "I see the silver lining in every situation, no matter how challenging.",
+              "My optimism empowers me to overcome obstacles with grace and ease.",
+              "I believe in the potential for positive change in every aspect of my life.",
+              "I am grateful for the positive experiences that come my way.",
+              "I trust that the universe is conspiring in my favor.",
+              "I choose to let go of negativity and focus on the positive aspects of life.",
+              "I am an optimistic thinker, and my thoughts shape my reality.",
+              "I am excited about the possibilities that each new day brings.",
+              "I am open to receiving the abundance of joy and positivity around me.",
+              "I am optimistic about the future, knowing that good things are on the horizon.",
+              "I see the beauty in life and appreciate the positive moments.",
+              "I am an optimistic soul, and my optimism is contagious."
+            ],
+            activties: [
+              "Go whitewater rafting on the Lehigh River",
+              "Take a day trip to Promenade Shops at Saucon Valley",
+              "Visit the Mack Trucks Historical Museum to learn about trucking history",
+              "Join or attend a meeting for the Lehigh Valley Writers Group",
+              "Take a scenic balloon ride over the Lehigh Valley",
+              "Explore the Lehigh Valley Rail Trail",
+              "Get a massage at Advanced Massage Therapy & Wellness Center",
+              "Take a scenic drive through the countryside around Lehigh Valley",
+              "Try out The Bookstore Speakeasy"
+            ]
+          },
+          
+          Passionate: {
+            affirmations: [
+              "I am fueled by passion, and it propels me towards my goals.",
+              "My passion ignites my creativity and innovation.",
+              "I embrace my passions, and they bring purpose and meaning to my life.",
+              "I am a powerhouse of passion, capable of achieving remarkable things.",
+              "My passion is contagious and inspires those around me.",
+              "I pursue my dreams with unwavering passion and determination.",
+              "I am aligned with my passions, and my energy is boundless.",
+              "Passion flows through my veins, driving me towards success.",
+              "I am on fire with enthusiasm for the things I love.",
+              "My passion empowers me to overcome challenges and persevere.",
+              "I attract opportunities that align with my passions and purpose.",
+              "I am passionate about living a fulfilling and purposeful life.",
+              "My passion fuels my commitment to personal and professional growth.",
+              "I am a force of nature, guided by my deep-seated passions.",
+              "I express my passions with authenticity and authenticity.",
+              "My passion transforms challenges into stepping stones for success.",
+              "I am passionate about making a positive impact in the world.",
+              "I embrace my passions and allow them to guide me towards fulfillment.",
+              "I am passionate about the journey, savoring each step along the way.",
+              "My passion is a driving force, propelling me towards greatness."
+            ],
+            activties: [
+              "Take a day trip to Promenade Shops at Saucon Valley",
+              "Visit the Mack Trucks Historical Museum to learn about trucking history",
+              "Join or attend a meeting for the Lehigh Valley Writers Group",
+              "Take a scenic balloon ride over the Lehigh Valley",
+              "Explore the Lehigh Valley Rail Trail",
+              "Get a massage at Advanced Massage Therapy & Wellness Center",
+              "Take a scenic drive through the countryside around Lehigh Valley",
+              "Try out The Bookstore Speakeasy"
+            
+            ]
+          },
+          
+          Joyfulness: {
+            affirmations: [
+              "I am filled with joy, and my heart overflows with gratitude.",
+              "Every breath I take is a celebration of the joy of being alive.",
+              "I attract joy into my life effortlessly and with abundance.",
+              "My joy is a beacon that attracts more positive experiences.",
+              "I savor the simple pleasures of life, and they fill me with immense joy.",
+              "I radiate joy, and it positively impacts everyone around me.",
+              "Joy is my natural state of being, and I embrace it fully.",
+              "I find joy in the present moment and let go of worries about the future.",
+              "My life is a tapestry of joy, woven with moments of laughter and love.",
+              "I choose to focus on the joy that surrounds me, even in challenging times.",
+              "I am a magnet for joy, and I attract joyful experiences into my life.",
+              "I celebrate my successes and find joy in every achievement.",
+              "I am grateful for the joy that permeates every aspect of my life.",
+              "I am deserving of joy, and I allow it to flow into my life effortlessly.",
+              "I am a vessel of joy, sharing my positive energy with the world.",
+              "Joy is my birthright, and I claim it with open arms.",
+              "I find joy in the journey, not just in the destination.",
+              "I am connected to the universal energy of joy, and it fills my soul.",
+              "I let go of anything that dampens my joy and embraces the lightness of being.",
+              "Joy is my constant companion, and I carry it with me wherever I go."
+            ],
+            activties: [
+              "Experience the Crayola Experience in Easton",
+              "Tour the Lehigh Valley Wine Trail and enjoy tastings",
+              "Enjoy thrilling rides at Dorney Park & Wildwater Kingdom",
+              "Visit the Lehigh Valley Zoo in Schnecksville",
+              "Attend live performances at the ArtsQuest Center at SteelStacks",
+              "Explore the natural beauty through hiking trails at Jacobsburg State Park",
+              "Discover the history of Bethlehem at the Moravian Museum",
+              "Attend Musikfest, one of the largest music festivals in the nation",
+              "Explore local breweries like Fegley's Brew Works and Weyerbacher Brewing Company",
+              "Visit the Da Vinci Science Center in Allentown",
+              "Discover the rich history of Bethlehem at the Kemerer Museum of Decorative Arts",
+              "Take a scenic balloon ride over the Lehigh Valley",
+              "Explore the Lehigh Valley Rail Trail",
+              "Visit the Mack Trucks Historical Museum to learn about trucking history",
+              "Join or attend a meeting for the Lehigh Valley Writers Group",
+              "Take a scenic drive through the countryside around Lehigh Valley",
+              "Try out The Bookstore Speakeasy",
+              "Visit the Allentown Fairgrounds Farmers Market",
+              "Visit the Easton Farmers' Market for fresh produce and local goods",
+              "Explore the Steamtown National Historic Site in Scranton",
+              "Visit the Mack Trucks Historical Museum to learn about trucking history"
+          ]
+          
+          },
+          Confidence: {
+            affirmations: [
+              "I radiate confidence, self-respect, and inner harmony.",
+              "I trust my abilities and believe in my capacity to succeed.",
+              "I am deserving of all the good things that come into my life.",
+              "I am proud of the person I am becoming.",
+              "I embrace challenges as opportunities to showcase my strengths.",
+              "I am comfortable in my own skin and celebrate my uniqueness.",
+              "I trust my intuition and make decisions with confidence.",
+              "I attract positivity and success into my life.",
+              "I am a powerful force, and I can achieve anything I set my mind to.",
+              "I exude self-assurance, and others are drawn to my positive energy.",
+              "I am confident in my ability to handle whatever comes my way.",
+              "I face each day with courage and enthusiasm.",
+              "I am not limited by my past; I am empowered by my present.",
+              "I am a valuable person with much to offer the world.",
+              "I trust the process of life and let go of unnecessary worries.",
+              "I believe in my dreams and have the capability to make them a reality.",
+              "I am a beacon of confidence, and my confidence inspires others.",
+              "I am worthy of success and acknowledge my accomplishments.",
+              "I walk, talk, and act with confidence and grace.",
+              "I am secure in my abilities, and I trust that everything is unfolding for my highest good."
+            ],
+            activties: [
+              "Take a day trip to Promenade Shops at Saucon Valley",
+              "Visit the Mack Trucks Historical Museum to learn about trucking history",
+              "Join or attend a meeting for the Lehigh Valley Writers Group",
+              "Take a scenic balloon ride over the Lehigh Valley",
+              "Explore the Lehigh Valley Rail Trail",
+              "Get a massage at Advanced Massage Therapy & Wellness Center",
+              "Take a scenic drive through the countryside around Lehigh Valley",
+              "Try out The Bookstore Speakeasy",
+              "Visit the Allentown Fairgrounds Farmers Market",
+              "Visit the Easton Farmers' Market for fresh produce and local goods",
+              "Explore the Steamtown National Historic Site in Scranton",
+              "Visit the Mack Trucks Historical Museum to learn about trucking history",
+              "Visit the Lehigh Valley Heritage Museum"
+            
+            
+            ]
+          },
+          
+          Grateful: {
+            affirmations: [
+              "I am grateful for the abundance of love and positivity in my life.",
+              "I appreciate the simple pleasures that bring joy to my day.",
+              "My heart is filled with gratitude for the people who support and uplift me.",
+              "I am thankful for the lessons that challenges bring, knowing they contribute to my growth.",
+              "I express gratitude for the beauty that surrounds me in both big and small ways.",
+              "I am grateful for the opportunities that allow me to learn and evolve.",
+              "Every day, I find new reasons to be thankful for the gift of life.",
+              "I appreciate the present moment and find joy in the journey.",
+              "I am grateful for the strength within me that allows me to overcome obstacles.",
+              "I recognize and cherish the abundance of blessings in my life.",
+              "I am thankful for the positive impact I can make in the lives of others.",
+              "Gratitude is my attitude, and it transforms challenges into opportunities.",
+              "I am thankful for my body, mind, and spirit, each contributing to my well-being.",
+              "I am grateful for the supportive relationships that enrich my life.",
+              "I express gratitude for the energy and vitality that flows through me.",
+              "Every breath I take is a reminder of the precious gift of life.",
+              "I am thankful for the wisdom gained from both success and setbacks.",
+              "Gratitude fills my heart and radiates positive energy to those around me.",
+              "I appreciate the journey I am on, with all its twists and turns.",
+              "I am grateful for this moment and the infinite possibilities it holds."
+            ],
+            activties: [
+              "Take a day trip to Promenade Shops at Saucon Valley",
+              "Visit the Mack Trucks Historical Museum to learn about trucking history",
+              "Join or attend a meeting for the Lehigh Valley Writers Group",
+              "Take a scenic balloon ride over the Lehigh Valley",
+              "Explore the Lehigh Valley Rail Trail",
+              "Get a massage at Advanced Massage Therapy & Wellness Center",
+              "Take a scenic drive through the countryside around Lehigh Valley",
+              "Try out The Bookstore Speakeasy",
+              "Visit the Allentown Fairgrounds Farmers Market",
+              "Visit the Easton Farmers' Market for fresh produce and local goods",
+              "Explore the Steamtown National Historic Site in Scranton",
+              "Visit the Mack Trucks Historical Museum to learn about trucking history",
+              "Visit the Lehigh Valley Heritage Museum"
+            
+            ]
+          },
+          
+          SelfGratitude: {
+            affirmations: [
+              "I am grateful for the unique person that I am.",
+              "I appreciate the strength and resilience within me.",
+              "I am thankful for the kindness and compassion I show to myself.",
+              "I recognize and honor the progress I've made on my journey.",
+              "I express gratitude for the love and care I invest in myself.",
+              "I am thankful for the positive choices I make for my well-being.",
+              "I appreciate my body for the incredible things it allows me to do.",
+              "I am grateful for the wisdom and lessons gained from my experiences.",
+              "I acknowledge my efforts and hard work; they contribute to my success.",
+              "I express gratitude for the talents and skills that make me unique.",
+              "I am thankful for my ability to learn and grow each day.",
+              "I appreciate the qualities within me that inspire others.",
+              "I express gratitude for the love and acceptance I have for myself.",
+              "I am thankful for the positive energy I bring into my own life.",
+              "I recognize the beauty in my flaws and imperfections.",
+              "I express gratitude for the choices that align with my values.",
+              "I am thankful for my intuition, guiding me in the right direction.",
+              "I appreciate the positive impact I have on my own happiness.",
+              "I am grateful for the laughter and joy I bring into my life.",
+              "I express deep gratitude for the person I am becoming."
+            ],
+            activties: [
+              "Try the Lehigh Valley Wine Trail Tour",
+              "Visit the Lehigh Valley Heritage Museum",
+              "Take a scenic drive along the Delaware River",
+              "Participate in the Lehigh Valley Yoga Fest",
+              "Try a cooking class at the Culinary Arts Institute",
+              "Try Botanical Exploration at Rodale Institute",
+              "Walk, run, or bike across the Lehigh Valley Greenways",
+              "Go to Dorney Park for a day",
+              "Take a yoga class at Easton Yoga",
+              "Explore the services at the Lehigh Valley Healing Arts Center",
+              "Try Mindfulness Meditation Group at the Reiki School + Clinic",
+              "Take a walk along the Delaware and Lehigh National Heritage Corridor Trail",
+              "Try Therapeutic Horseback Riding at Equi-librium",
+              "Spend time at the Lehigh Valley Zoo",
+            ]
+          },
+          
+          Authenticity: {
+            affirmations: [
+              "I am true to myself, and I embrace my authenticity.",
+              "I express my thoughts and feelings genuinely and without hesitation.",
+              "I am proud of the person I am, and I live authentically.",
+              "I honor my values and stay true to my beliefs.",
+              "My authenticity is my strength, and I carry it with confidence.",
+              "I trust in my unique journey and appreciate the authenticity it brings.",
+              "I release the need to conform; I am free to be myself.",
+              "I celebrate my individuality and the diversity of my experiences.",
+              "I am authentic in my interactions, fostering genuine connections.",
+              "My authenticity inspires others to be true to themselves.",
+              "I embrace the ebb and flow of life, staying true to my authentic self.",
+              "I allow my true self to shine, radiating authenticity in all I do.",
+              "I am comfortable in my own skin, living authentically and unapologetically.",
+              "I trust in the power of my authentic voice.",
+              "I release the need for approval and validation; my authenticity is enough.",
+              "I live each day authentically, aligned with my true nature.",
+              "I appreciate the beauty that comes from being genuine.",
+              "I am authentic in my relationships, allowing true connections to flourish.",
+              "I am at peace with who I am, embracing my authenticity fully.",
+              "I am authentic, and that is my greatest source of strength."
+            ],
+            activties: [
+               "Take a day trip to Promenade Shops at Saucon Valley",
+              "Visit the Mack Trucks Historical Museum to learn about trucking history",
+              "Join or attend a meeting for the Lehigh Valley Writers Group",
+              "Take a scenic balloon ride over the Lehigh Valley",
+              "Explore the Lehigh Valley Rail Trail",
+              "Get a massage at Advanced Massage Therapy & Wellness Center",
+              "Take a scenic drive through the countryside around Lehigh Valley",
+              "Try out The Bookstore Speakeasy",
+              "Visit the Allentown Fairgrounds Farmers Market",
+            ]
+          }
+          
+          
   }
 
 
