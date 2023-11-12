@@ -9,8 +9,8 @@ const emotions = {
       "I breathe in calmness and breathe out stress.",
       "I am centered and grounded."
     ],
-    Burnout: [
-        affirmations =[
+    Burnout: {
+        affirmations:[
             "I don’t compare myself to others. The only person I compare myself to is the person I was yesterday. And as long as the person I am today is even the tiniest bit better than the person I was yesterday—I’m meeting my own definition of success.",
             "I can do anything, but I can’t do everything",
             "Rest is work, too. It’s a job that needs to be done.",
@@ -28,7 +28,7 @@ const emotions = {
             "I am surrounded by love and support, and it's okay to lean on others."
             
         ],
-        activties = [ 
+        activties:[ 
             "Take a nature retreat at the Hawk Mountain Sanctuary",
             "Enjoy a quiet day at Trexler Memorial Park",
             "Try the Lehigh Valley Wine Trail Tour",
@@ -40,7 +40,7 @@ const emotions = {
             "Walk, run, or bike across the Lehigh Valley Greenways",
             "Go to Dorney Park for a day"
             ]
-    ],
+          },
     // emotion[],
     // emotion[],
     // emotion[],
@@ -69,9 +69,9 @@ const emotions = {
     const selectedEmotion = document.getElementById('emotionSelect').value;
     const activityContainer = document.getElementById('activity');
   
-    if (emotions[selectedEmotion] && emotions[selectedEmotion].activities) {
-      const randomActivityIndex = Math.floor(Math.random() * emotions[selectedEmotion].activities.length);
-      const randomActivity = emotions[selectedEmotion].activities[randomActivityIndex];
+    if (emotions[selectedEmotion] && emotions[selectedEmotion].activties) {
+      const randomActivityIndex = Math.floor(Math.random() * emotions[selectedEmotion].activties.length);
+      const randomActivity = emotions[selectedEmotion].activties[randomActivityIndex];
       activityContainer.textContent = randomActivity;
     } else {
       activityContainer.textContent = "Please select an emotion.";
